@@ -15,10 +15,6 @@
 ---
 
 
-**_Note:_** This is not the whole project. This repository will have completely uploaded in a week or two.
-
----
-
 
 **_Enes Çavuş_**  
 İletişim: [LinkedIn](https://www.linkedin.com/in/enes-%C3%A7avu%C5%9F-057376175)
