@@ -14,7 +14,8 @@
 
 ---
 
-
+Also you can read this project as an article over here - > [medium](https://medium.com/@enesblog/gui-for-tensorflow-object-detection-models-61159c41febb)
 
 **_Enes Çavuş_**  
 İletişim: [LinkedIn](https://www.linkedin.com/in/enes-%C3%A7avu%C5%9F-057376175)
+
