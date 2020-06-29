@@ -1,6 +1,14 @@
 # **GUI for Tensorflow Object Detection Models**
 ---
 
+At the end of the project the GUI will look like this:
+
+**_GUI_**
+
+![Project Sample](images/sample.png)
+
+---
+
 **_Screen Shot 1:_**
 
 ![WelcomePage](images/welcome-page.png)
