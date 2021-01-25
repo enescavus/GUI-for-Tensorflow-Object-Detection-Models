@@ -3,14 +3,14 @@
 
 **_Screen Shot 1:_**
 
-![WelcomePage](images/welcome-page.png)
+![WelcomePage](BasicGuiDesign/images/welcome-page.png)
 
 ---
 
 **_Screen Shot 2:_**
 
 
-![detection-page](images/detection-page-img-upload.png)
+![detection-page](BasicGuiDesign/images/detection-page-img-upload.png)
 
 ---
 
@@ -19,13 +19,13 @@ At the end of the project the GUI will look like this:
 
 **_ScreenShot 3_**
 
-![Project Sample](images/sample.png)
+![Project Sample](BasicGuiDesign/images/sample.png)
 
 ---
 
 **_ScreenShot 4_**
 
-![Project Sample2](images/face-detected.png)
+![Project Sample2](BasicGuiDesign/images/face-detected.png)
 
 ---
 
